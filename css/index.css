@@ -3,9 +3,9 @@
     padding: 0;
 }
 
-body {
+#wrapper {
     width: 1600px;
-    height: 3854px
+    margin: 0 auto;
 }
 
 .parallax1 {
