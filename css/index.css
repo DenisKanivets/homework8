@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1600px;
+    height: 3854px
+}
+
+.parallax1 {
+    background-image: url("../images/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.parallax2 {
+    background-image: url("../images/bg2.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+.parallax3 {
+    background-image: url("../images/bg3.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 475px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.parallax4 {
+    background-image: url("../images/bg4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 485px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+}
+
+.betweenImg1 {
+    height: 372px;
+    text-align: center;
+}
+
+.betweenImg2 {
+    height: 439px;
+    text-align: center;
+}
+
+.betweenImg3 {
+    height: 402px;
+    text-align: center;
+}
+
+.betweenImg4 {
+    height: 401px;
+    text-align: center;
+}
+
+.part1Txt1 {
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 700;
+    position: absolute;
+    left: 86px;
+    top: 530px;
+}
+
+.part1Txt2 {
+    font-family: Lato;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    position: absolute;
+    left: 89px;
+    top: 582px;
+}
+
+.part1Txt3 {
+    position: absolute;
+    left: 82px;
+    top: 626px;
+}
+
+.part1Txt3__border1 {
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    width: 152px;
+    height: 129px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.part1Txt3__WE {
+    font-family: Montserrat;
+    color: #f1ad1d;
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.part1Txt3__border2 {
+    border: 1px solid #ffffff;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 831px;
+    height: 129px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 4px;
+}
+
+.part1Txt3__MAKE {
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.weAreAnAward {
+    font-family: Lato;
+    color: #4d4943;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 35px;
+    padding-bottom: 52px;
+}
+
+.betweenTxt {
+    font-family: Montserrat;
+    color: #333333;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 18px;
+    padding-top: 112px;
+}
+
+.txtWhite1 {
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 60px;
+    padding-top: 150px;
+}
+
+.txtWhite2 {
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 60px;
+    padding-top: 174px;
+}
+
+.txtWhite3 {
+    font-family: Montserrat;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 60px;
+    padding-top: 130px;
+}
+
+.txtYellow {
+    font-family: Montserrat;
+    color: #f1ad1d;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.lastTxtWhite {
+    font-family: Lato;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: #f1ad1d;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.lastTxtYellow {
+    font-family: Lato;
+    color: #f1ad1d;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 44px;
+}
+
+.logo {
+    position: relative;
+}
+
+.logo1 {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 150px;
+    bottom: 0;
+    right: 600px;
+}
+
+.logo2 {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 150px;
+    bottom: 0;
+    right: 200px;
+}
+
+.logo3 {
+    position: absolute;
+    margin: auto;
+    left: 200px;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+}
+
+.logo4 {
+    position: absolute;
+    margin: auto;
+    left: 600px;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+}
